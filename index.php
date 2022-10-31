@@ -17,3 +17,6 @@ echo 'Current PHP version: ' . phpversion();
 <?php
 echo keisukekeisuke;
 ?>
+<?php
+echo keisukesudo;
+?>
